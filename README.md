@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+See the original documentation for stampit.js [here](https://github.com/ericelliott/stampit).
 
 ## Contributing
 
