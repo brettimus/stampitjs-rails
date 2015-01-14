@@ -1,6 +1,6 @@
 # Stampitjs::Rails
 
-TODO: Write a gem description
+asset gem for [stampit.js](https://github.com/ericelliott/stampit)
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-See the original documentation for stampit.js [here](https://github.com/ericelliott/stampit).
+See the original documentation for [stampit.js](https://github.com/ericelliott/stampit).
 
 ## Contributing
 
