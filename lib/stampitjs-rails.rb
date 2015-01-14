@@ -1,4 +1,4 @@
-require "stampitjs/rails/version"
+require "stampitjs-rails/version"
 
 module Stampitjs
   module Rails
