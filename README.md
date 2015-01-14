@@ -19,7 +19,7 @@ Or install it yourself as:
     $ gem install stampitjs-rails
 
 ## Usage
-Add the following to to your `application.js` file:
+Add the following to your `application.js` file:
 
     $ //=require stampit
 
