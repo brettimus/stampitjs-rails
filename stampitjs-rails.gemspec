@@ -8,14 +8,12 @@ Gem::Specification.new do |spec|
   spec.version       = Stampitjs::Rails::VERSION
   spec.authors       = ["brettimus"]
   spec.email         = ["brbeut@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{asset gem for javascript library 'stampit'}
+  spec.description   = %q{adds stampit.js to the asset pipeline to give your app some prototypal syntatic sugah}
+  spec.homepage      = "https://github.com/brettimus/stampitjs-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
-  spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
-  spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_paths = ["lib"]
 
   spec.add_development_dependency "bundler", "~> 1.7"
