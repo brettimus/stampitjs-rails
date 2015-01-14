@@ -1,4 +1,4 @@
-# Stampitjs::Rails
+ls# Stampitjs::Rails
 
 asset gem for [stampit.js](https://github.com/ericelliott/stampit)
 
@@ -19,6 +19,9 @@ Or install it yourself as:
     $ gem install stampitjs-rails
 
 ## Usage
+Add the following to to your `application.js` file:
+
+    $ //=require stampit
 
 See the original documentation for [stampit.js](https://github.com/ericelliott/stampit).
 
