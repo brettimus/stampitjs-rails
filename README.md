@@ -1,6 +1,6 @@
-ls# Stampitjs::Rails
+# stampitjs-rails
 
-asset gem for [stampit.js](https://github.com/ericelliott/stampit)
+asset gem for [stampit.js](https://github.com/ericelliott/stampit) by Eric Elliott
 
 ## Installation
 
