@@ -1,5 +1,5 @@
 module Stampitjs
   module Rails
-    VERSION = "1.1.0.3"
+    VERSION = "2.1.0.0"
   end
 end
